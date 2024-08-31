@@ -508,13 +508,13 @@
         width: 90%;
     }
     .contact .contact-box form input {
-        width: 100%;
+        width: 350px;
     }
     .contact .contact-box form textarea {
-        width: 100%;
+        width: 350px;
     }
     .contact .contact-box form button {
-        width: 100%;
+        width: 350px;
     }
     .mobile-nav {
         visibility: visible;
